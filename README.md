@@ -181,3 +181,17 @@ For projects using Python’s built-in unittest framework with tests in a tests/
 ```bash
   python -m unittest discover -s tests
 ```
+
+
+## How We Use Replit 
+
+StockSense AI was developed and tested using Replit as its development environment.
+
+* Development: Replit was used to write, organise, debug, and run the Python application. The project uses Streamlit to provide the inventory dashboard and workflow interface.
+* Application Execution: The application is started using streamlit run app.py in the Replit Shell.
+* Testing: Replit was used to test custom inventory CSV uploads, stock classification, replenishment recommendations, approval workflows, and activity logging.
+* Hosting: The application runs in Replit. A publicly accessible deployment link should be provided in the Live Demo section once deployment is configured and verified.
+* Secrets: No API keys or credentials should be committed to the source-code repository. No external API credentials are required for the current core inventory functionality.
+
+📄 **Proof of Use:** [View Replit Proof of Use (PDF)](submission/SDC2026_TeamName_Replit_POU.pdf)
+
