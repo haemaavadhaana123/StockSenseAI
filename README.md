@@ -1,2 +1,34 @@
 # StockSenseAI
 Smart Inventory &amp; Replenishment Assistant
+
+
+### StockSenseAI
+
+> StockSenseAI is an AI-assisted inventory management solution designed to help Malaysian mini-markets and small retailers improve stock visibility and replenishment decisions.
+> 
+> 
+
+---
+
+### Team Information Table
+
+| Field | Details |
+| --- | --- |
+| **Team Name** | 404notFound
+
+ |
+| **Team Domain** | Domain 2 - Orbyte Smart SME Challenge
+
+ |
+| **SDG Track (1–17)** | SDG 12 — Responsible Consumption and Production
+
+ |
+| **Team Leader** | Haemaavadhaana Seemadaran
+
+ |
+| **University** | Asia Pacific University of Technology and Innovation
+
+ |
+| **Number of Members** | 4
+
+ |
