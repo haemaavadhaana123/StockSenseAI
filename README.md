@@ -195,3 +195,70 @@ StockSense AI was developed and tested using Replit as its development environme
 
 📄 **Proof of Use:** [View Replit Proof of Use (PDF)](submission/SDC2026_TeamName_Replit_POU.pdf)
 
+## Challenges & Learnings
+
+### Challenges Faced and How We Overcame Them
+
+- **Inventory Data Handling:** Supporting different business inventories required a consistent CSV format. We implemented custom inventory uploads with required-column validation so users can test the application with their own inventory data.
+- **Stock Classification and Replenishment:** Inventory items have different minimum and target stock levels. We implemented reusable Python logic to classify stock conditions and calculate suggested replenishment quantities.
+- **Workflow Management:** Replenishment decisions require tracking and accountability. We implemented a workflow that supports request creation, approval or rejection, and activity logging.
+- **Application Debugging:** During development, we encountered code and integration issues. We resolved them through debugging and repeated testing of the application's core features.
+
+### What We Learned
+
+- How to develop a web-based application using Python and Streamlit.
+- How to process inventory records using pandas and CSV files.
+- How to design reusable inventory and workflow components.
+- How to implement human approval and activity logging for replenishment decisions.
+- The importance of validating user-provided data and testing the application with custom inventory datasets.
+
+## Future Improvements
+
+- [ ] **Database Integration:** Replace CSV-based storage with a database to improve persistence, scalability, and multi-user support.
+- [ ] **Orbyte Integration:** Implement and test a connection with Orbyte to support interoperability with the Orbyte ecosystem.
+- [ ] **Demand Forecasting:** Introduce forecasting capabilities to estimate future inventory requirements using historical sales data.
+- [ ] **Supplier Integration:** Explore supplier-system integration to streamline purchasing workflows.
+- [ ] **Security and Access Control:** Add role-based permissions and stronger data protection for production use.
+- [ ] **Automated Testing:** Expand automated tests for inventory validation, replenishment calculations, and workflow transitions.
+- [ ] **Advanced Analytics:** Add inventory trends, usage reports, and stock movement analysis to support business decisions.
+
+---
+
+## Team
+
+| Name | Role | GitHub |
+|---|---|---|
+| YOUR_NAME | Team Lead / Backend Developer | [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME) |
+| TEAM_MEMBER_2 | Inventory / Workflow Developer | [@GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) |
+| TEAM_MEMBER_3 | Testing / Documentation | [@GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) |
+
+*Replace the placeholders with your actual team members, responsibilities, and GitHub usernames.*
+
+---
+
+## Submission Checklist
+
+- [ ] Team name, domain (Domain 1 / Domain 2), and SDG track completed.
+- [ ] Slide deck link added, if required.
+- [ ] Demo video link added, if available or required.
+- [ ] Replit used and proof of use included in `submission/`.
+- [ ] Preliminary submission document completed and included.
+- [ ] Technical Tools Declaration completed and included.
+- [ ] Submission documents renamed using the actual team name.
+- [ ] GitHub repository URL added and verified.
+- [ ] Live demo URL added and verified, if deployed.
+- [ ] "How to Run" instructions tested.
+- [ ] Custom inventory CSV upload tested.
+- [ ] Replenishment request, approval/rejection, and activity logging tested.
+- [ ] No API keys, passwords, or secrets committed to the repository.
+- [ ] Orbyte integration status accurately described; do not claim integration until implemented and tested.
+
+---
+
+## License
+
+Add the license selected by your team here.
+
+If your repository contains a `LICENSE` file, ensure that this section names the same license. Do not claim Apache License 2.0 unless that is the license your team has actually chosen.
+
+
