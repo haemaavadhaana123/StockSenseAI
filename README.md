@@ -73,24 +73,26 @@ StockSenseAI/
 │   └── activity_log.csv
 ├── requirements.txt
 └── README.md
+```
 
+##Architecture
+## Project Structure
 
-## Overview
+```text
+StockSenseAI/
+├── app.py
+├── utils/
+│   ├── app_theme.py
+│   ├── inventory_data.py
+│   ├── workflow_storage.py
+│   ├── replenishment.py
+│   ├── replenishment_page.py
+│   └── workflow_pages.py
+├── data/
+│   ├── sample_inventory.csv
+│   ├── replenishment_request.csv
+│   └── activity_log.csv
+├── requirements.txt
+└── README.md
+```
 
-
-User
-  │
-  v
-Streamlit Interface (app.py)
-  │
-  v
-Inventory Data Processing (pandas)
-  │
-  v
-Inventory Rules & Replenishment Logic
-  │
-  v
-CSV-Based Storage
-  │
-  v
-Approval Centre & Activity Log
