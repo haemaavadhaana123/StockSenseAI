@@ -52,3 +52,45 @@ StockSense AI provides a centralised dashboard for inventory monitoring and repl
 | **Data Storage** | CSV files |
 | **Development Environment** | Replit |
 | **Version Control** | Git and GitHub |
+
+
+
+`## Project Structure
+
+```text
+StockSenseAI/
+├── app.py
+├── utils/
+│   ├── app_theme.py
+│   ├── inventory_data.py
+│   ├── workflow_storage.py
+│   ├── replenishment.py
+│   ├── replenishment_page.py
+│   └── workflow_pages.py
+├── data/
+│   ├── sample_inventory.csv
+│   ├── replenishment_request.csv
+│   └── activity_log.csv
+├── requirements.txt
+└── README.md
+
+
+## Overview
+
+
+User
+  │
+  v
+Streamlit Interface (app.py)
+  │
+  v
+Inventory Data Processing (pandas)
+  │
+  v
+Inventory Rules & Replenishment Logic
+  │
+  v
+CSV-Based Storage
+  │
+  v
+Approval Centre & Activity Log
