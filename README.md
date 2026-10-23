@@ -55,7 +55,7 @@ StockSense AI provides a centralised dashboard for inventory monitoring and repl
 
 
 
-`## Project Structure
+## Project Structure
 
 ```text
 StockSenseAI/
