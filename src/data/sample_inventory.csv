@@ -1,0 +1,11 @@
+product_id,product_name,category,unit,current_stock,minimum_stock,target_stock,supplier,last_updated
+P001,Cooking Oil,Cooking Essentials,Bottle,25,10,40,FreshMart Supplies,2026-10-21
+P002,White Rice,Grains,kg,50,20,60,GrainHub Sdn Bhd,2026-10-21
+P003,Sugar,Baking,kg,13,15,50,SweetSource Trading,2026-10-22T03:55:46+00:00
+P004,All-Purpose Flour,Baking,kg,0,10,30,BakeWell Distributors,2026-10-21
+P005,Instant Noodles,Packaged Food,Pack,12,20,60,NoodleSupply Co,2026-10-21
+P006,UHT Milk,Dairy,Carton,40,15,45,DairyBest Sdn Bhd,2026-10-21
+P007,Eggs,Dairy,Tray,8,30,60,FarmFresh Supplies,2026-10-21
+P008,Canned Tuna,Canned Food,Can,18,10,40,OceanWave Trading,2026-10-21
+P009,Mineral Water,Beverages,Bottle,100,40,120,AquaPure Sdn Bhd,2026-10-21
+P010,Biscuits,Snacks,Pack,3,10,40,SnackWorld,2026-10-21

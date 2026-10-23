@@ -1,0 +1,10 @@
+product_id,product_name,category,unit,current_stock,minimum_stock,target_stock,supplier,last_updated
+E001,Test Rice,Grains,kg,10,10,30,GrainHub Sdn Bhd,2026-10-21
+E002,Test Cooking Oil,Cooking Essentials,Bottle,0,10,40,FreshMart Supplies,2026-10-21
+E003,Test Biscuits,Snacks,Pack,2,10,30,SnackWorld,2026-10-21
+E004,,Grains,kg,15,10,30,GrainHub Sdn Bhd,2026-10-21
+E005,Test Flour,Baking,kg,5,,30,BakeWell Distributors,2026-10-21
+E006,Test Sugar,Baking,kg,-5,10,30,SweetSource Trading,2026-10-21
+E007,Test Milk,Dairy,Carton,20,10,15,DairyBest Sdn Bhd,2026-10-21
+E008,Test Noodles,Packaged Food,Pack,5,10,30,,2026-10-21
+E009,Test Coffee,Beverages,Pack,5,20,10,CoffeeSupply Sdn Bhd,2026-10-21

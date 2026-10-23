@@ -1,0 +1,12 @@
+request_id,product_id,product_name,proposed_quantity,unit,supplier,timestamp,status,decision_role
+REQ-CF7E7A306B464FA58DD856F537F53B55,P003,Sugar,40.0,kg,SweetSource Trading,2026-10-22T03:27:01+00:00,Submitted to Simulated Procurement,Inventory Manager
+REQ-62B82F051EA045A186B8E7B1D35B0A85,P004,All-Purpose Flour,30.0,kg,BakeWell Distributors,2026-10-22T03:29:18+00:00,Rejected,Inventory Manager
+REQ-6F97484AA91449BA921F1BEE3DADB380,P003,Sugar,37.0,kg,SweetSource Trading,2026-10-22T04:27:39+00:00,Submitted to Simulated Procurement,Inventory Manager
+REQ-FB90660C31C041D0B2418123DEE7CF5E,P003,Sugar,37.0,kg,SweetSource Trading,2026-10-22T04:29:59+00:00,Submitted to Simulated Procurement,Inventory Manager
+REQ-E456443F81C04030BBA1D10AB79E0013,P003,Sugar,37.0,kg,SweetSource Trading,2026-10-22T04:30:09+00:00,Submitted to Simulated Procurement,Inventory Manager
+REQ-FDCB3C84EEEC43D2A9BFBC427613C998,P003,Sugar,37.0,kg,SweetSource Trading,2026-10-22T04:33:15+00:00,Submitted to Simulated Procurement,Inventory Manager
+REQ-A6D9DBABBA3B498188C886311A51C8B9,P003,Sugar,37.0,kg,SweetSource Trading,2026-10-22T04:35:31+00:00,Submitted to Simulated Procurement,Inventory Manager
+REQ-D55984EF95B34903821167046A51360F,P003,Sugar,37.0,kg,SweetSource Trading,2026-10-22T04:51:13+00:00,Submitted to Simulated Procurement,Inventory Manager
+REQ-DB7953897FDE4926A5B34D5D9FCF6F17,P003,Sugar,37.0,kg,SweetSource Trading,2026-10-22T04:54:01+00:00,Submitted to Simulated Procurement,Inventory Manager
+REQ-F042F03E1DD344A6A80417D0AAF81C55,P003,Sugar,37.0,kg,SweetSource Trading,2026-10-22T04:58:26+00:00,Approved,Inventory Manager
+REQ-82097892BCB14449AFF6E500FE982990,P005,Instant Noodles,48.0,Pack,NoodleSupply Co,2026-10-22T04:58:26+00:00,Approved,Inventory Manager
