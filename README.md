@@ -1,10 +1,7 @@
-# StockSenseAI
-Smart Inventory &amp; Replenishment Assistant
-
 
 # StockSenseAI
 
-StockSenseAI is an AI-assisted inventory management solution designed to help Malaysian mini-markets and small retailers improve stock visibility and replenishment decisions[cite: 5].
+StockSenseAI is an AI-assisted inventory management solution designed to help Malaysian mini-markets and small retailers improve stock visibility and replenishment decisions.
 
 ## Team Information
 
