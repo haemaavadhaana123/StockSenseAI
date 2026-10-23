@@ -77,6 +77,7 @@ StockSenseAI/
 
 ## Architecture
 
+```text
 User
   │
   v
@@ -93,3 +94,90 @@ CSV-Based Storage
   │
   v
 Approval Centre & Activity Log
+```
+
+# How to Run
+
+## Option 1 — Run on Replit (Recommended)
+
+1. Open the StockSense AI project in Replit.
+2. Ensure the project files, including `app.py`, `requirements.txt`, the `utils/` directory, and the `data/` directory, are present.
+3. Open the **Shell** tab in Replit.
+4. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+5. Start the application:
+   
+  ```bash
+  streamlit run app.py
+  ```
+
+## Option 2 — Run Locally
+
+Prerequisites
+
+* Python installed on your computer.
+* Git installed if cloning the repository.
+* The StockSense AI project files.
+
+1. Clone the Repository
+
+Replace the placeholder with your actual GitHub repository URL.
+ ```bash
+ git clone YOUR_GITHUB_REPOSITORY_URL
+ cd StockSenseAI
+  ```
+
+If you downloaded the project files instead, open a terminal in the project directory.
+
+2. Create a Virtual Environment
+
+macOS / Linux
+  ```bash
+  python3 -m venv venv
+  source venv/bin/activate
+  ```
+
+Windows
+  ```bash
+  python -m venv venv
+  venv\Scripts\activate
+  ```
+
+3. Install Dependencies
+```bash
+  pip install -r requirements.txt
+```
+
+4.  Start the Application
+```bash
+  streamlit run app.py
+```
+
+## Using Custom Inventory Data
+
+1. Open StockSense AI.
+2. Locate Company Inventory in the sidebar.
+3. Upload an inventory CSV file containing these required columns:
+    * product_id
+    * product_name
+    * category
+    * unit
+    * current_stock
+    * minimum_stock
+    * target_stock
+    * supplier
+4. Review the inventory dashboard and stock conditions.
+5. Open Replenishment Recommendations to view suggested order quantities.
+6. Create replenishment requests and manage them through the approval workflow.
+
+## Running Tests
+
+If automated tests are included in the repository, run them using the appropriate test command.
+
+For projects using Python’s built-in unittest framework with tests in a tests/ directory:
+
+```bash
+  python -m unittest discover -s tests
+```
