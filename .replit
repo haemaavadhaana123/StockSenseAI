@@ -1,0 +1,46 @@
+modules = ["python-3.11", "postgresql-16"]
+
+run = "python -m streamlit run app.py --server.address 0.0.0.0 --server.port 5000 --browser.serverAddress \"$REPLIT_DEV_DOMAIN\""
+
+
+
+[nix]
+packages = ["glibcLocales"]
+channel = "stable-25_05"
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Start application"
+
+[[workflows.workflow]]
+name = "Start application"
+author = "agent"
+
+[workflows.workflow.metadata]
+outputType = "webview"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python -m streamlit run app.py --server.address 0.0.0.0 --server.port 5000 --browser.serverAddress \"$REPLIT_DEV_DOMAIN\""
+waitForPort = 5000
+
+[[ports]]
+localPort = 5000
+externalPort = 80
+
+
+[deployment]
+deploymentTarget = "autoscale"
+run = ["python", "-m", "streamlit", "run", "app.py", "--server.address", "0.0.0.0", "--server.port", "5000", "--server.headless", "true"]
+
+[postMerge]
+path = "scripts/post-merge.sh"
+timeoutMs = 180000
