@@ -193,7 +193,7 @@ StockSense AI was developed and tested using Replit as its development environme
 * Hosting: The application runs in Replit. A publicly accessible deployment link should be provided in the Live Demo section once deployment is configured and verified.
 * Secrets: No API keys or credentials should be committed to the source-code repository. No external API credentials are required for the current core inventory functionality.
 
-📄 **Proof of Use:** [View Replit Proof of Use (PDF)](submission/SDC2026_TeamName_Replit_POU.pdf)
+📄 **Proof of Use:** [View Replit Proof of Use (PDF)]([submission/SDC2026_TeamName_Replit_POU.pdf](https://github.com/haemaavadhaana123/StockSenseAI/blob/dd04582e2c1ac48304ac79a6657801a5dfb62df8/submission/SDC2026_404notFound_Replit.pdf))
 
 ## Challenges & Learnings
 
