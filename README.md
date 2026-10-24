@@ -228,11 +228,11 @@ StockSense AI was developed and tested using Replit as its development environme
 
 | Name | Role | GitHub |
 |---|---|---|
-| HAEMAAVDHAANA SEEMADARAN | Team Lead / Backend Developer | [@haemaavadhaana123](https://github.com/Yhaemaavadhaana123) |
+| HAEMAAVDHAANA SEEMADARAN | Team Lead / Backend Developer | [[https://github.com/haemaavadhaana123](https://github.com/Yhaemaavadhaana123) |
 | TEAM_MEMBER_2 | Inventory / Workflow Developer | [@GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) |
 | TEAM_MEMBER_3 | Testing / Documentation | [@GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) |
 
-*Replace the placeholders with your actual team members, responsibilities, and GitHub usernames.*
+
 
 ---
 
