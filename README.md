@@ -228,8 +228,8 @@ StockSense AI was developed and tested using Replit as its development environme
 
 | Name | Role | GitHub |
 |---|---|---|
-| HAEMAAVDHAANA SEEMADARAN | Team Lead / Backend Developer | @haemaavadhaana123 |
-| CLARANCE AMAL RAJAN | Inventory / Workflow Developer | [@GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) |
+| HAEMAAVDHAANA SEEMADARAN | Team Lead / Backend Developer | [@haemaavahaana123]() |
+| CLARANCE AMAL RAJAN | Inventory / Workflow Developer | [@clarance1214](https://github.com/GITHUB_USERNAME) |
 | RITEIKES PRAKASH | Testing / Documentation | [@GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) |
 | DHARMEKA SONI  | Testing / Documentation | [@GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) |
 
