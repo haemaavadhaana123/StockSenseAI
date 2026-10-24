@@ -21,7 +21,7 @@ StockSenseAI is an AI-assisted inventory management solution designed to help Ma
 | :--- | :--- |
 | **GitHub Repository** | [https://github.com/haemaavadhaana123/StockSenseAI](https://github.com/haemaavadhaana123/StockSenseAI) |
 | **Replit Project** | [https://stock-sense-ai-Haemaa.replit.app](https://stock-sense-ai-Haemaa.replit.app) |
-| **Live Demo** | [ADD_YOUR_LIVE_DEMO_URL](ADD_YOUR_LIVE_DEMO_URL) |
+| **Live Demo** | [https://youtu.be/Tc61m1t6Wb8]((https://youtu.be/Tc61m1t6Wb8)) |
 | **Slide Deck** | [https://canva.link/lrnggdp4pdepph3)](https://canva.link/lrnggdp4pdepph3) |
 
 
